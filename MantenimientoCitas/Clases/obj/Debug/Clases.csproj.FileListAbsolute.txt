@@ -1,0 +1,6 @@
+D:\Users\JC5149CR\source\repos\MantenimientoCitas\Clases\bin\Debug\Clases.dll
+D:\Users\JC5149CR\source\repos\MantenimientoCitas\Clases\bin\Debug\Clases.pdb
+D:\Users\JC5149CR\source\repos\MantenimientoCitas\Clases\obj\Debug\Clases.csprojAssemblyReference.cache
+D:\Users\JC5149CR\source\repos\MantenimientoCitas\Clases\obj\Debug\Clases.csproj.CoreCompileInputs.cache
+D:\Users\JC5149CR\source\repos\MantenimientoCitas\Clases\obj\Debug\Clases.dll
+D:\Users\JC5149CR\source\repos\MantenimientoCitas\Clases\obj\Debug\Clases.pdb
